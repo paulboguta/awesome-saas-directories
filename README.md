@@ -21,6 +21,7 @@ If you're building **SaaS**, generic directory lists waste your time on the wron
 ## ⭐ Top Pick
 
 - **[Batchlisted](https://batchlisted.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-saas-directories)** · service · from $99 — Done-for-you SaaS directory submission service. Submits your SaaS to 100+ SaaS-specific directories in this list. Used by indie SaaS founders to skip the manual grind.
+- **[HokAI](https://hokai.io)** · DR X (in progress) · dofollow · free — Curated AI tools directory with Smart Match for buyers, 100+ daily users, permanent dofollow backlinks, manually maintained listings.
 
 ## Launch Platforms
 
