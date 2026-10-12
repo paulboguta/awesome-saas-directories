@@ -86,6 +86,7 @@ If you're building **SaaS**, generic directory lists waste your time on the wron
 - **[ToolSalad](https://toolsalad.com)** · DR 35 · dofollow · free
 - **[Hive Index](https://thehiveindex.com)** · DA 31 · dofollow · free
 - **[GrowthJunkie](https://growthjunkie.com)** · DR 25 · dofollow · free
+- **[Altimateguide](https://altimateguide.com/request-inclusion)** · dofollow · free + paid tier — Tools directory with a manual editorial review on every submission. Free listing via a public SayAbout.Us Wall of Love or an on-site badge; $14.99 one-time with no verification.
 
 ## Software Review Sites
 
