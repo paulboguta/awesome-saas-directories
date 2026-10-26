@@ -39,6 +39,7 @@ If you're building **SaaS**, generic directory lists waste your time on the wron
 - **[Open Launch](https://openlaunch.ai)** · DR 30 · nofollow · free
 - **[Launch Vault](https://www.launchvault.dev)** · DR 30 · nofollow · free
 - **[NextGen Tools](https://www.nxgntools.com)** · DR 25 · conditional dofollow · free + paid tier
+- **[DebutPin](https://debutpin.com)** · dofollow · free — Free launch platform for indie makers to ship products, get voted, and collect permanent pins.
 
 ## Startup Directories
 
