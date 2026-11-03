@@ -68,6 +68,7 @@ If you're building **SaaS**, generic directory lists waste your time on the wron
 - **[Startups FYI](https://www.startups.fyi)** · DA 19 · dofollow · free
 - **[FeedMyStartup](https://feedmystartup.com)** · DR 18 · dofollow · free
 - **[PromoteProject](https://promoteproject.com)** · DR 15 · dofollow · free
+- **[SitePatent](https://sitepatent.com/)** · nofollow on free, dofollow on paid · free + paid tier — Directory of startups, tools and online products by category and tech stack; the free listing needs a homepage badge, paid plans from $19 one-time.
 
 ## SaaS Directories
 
